@@ -23,6 +23,7 @@ class Vehicle:
     pass
 
 
+# For all classes below: class SuperClass(BaseClass)
 class FlightVehicle(Vehicle):
     pass
 
